@@ -2,15 +2,15 @@
 
 **`Student at Misamis University`**
 
-# 💫 About Me:
+## 💫 About Me:
 🧑‍💻Currently pursuing my studies in Information Technology at [Misamis University](https://www.facebook.com/MisamisUniversity), Philippines<br>
 🤖Currently Learning about the fundamentals of programming<br>
 🕵️Trying out new things is my source of enjoyment and I also love playing games!<br>
 ✍️You can reach me via [Facebook](https://www.facebook.com/coolguysfresh)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shu&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=Shu-papi&theme=dark&hide_border=false)<br/>
 
